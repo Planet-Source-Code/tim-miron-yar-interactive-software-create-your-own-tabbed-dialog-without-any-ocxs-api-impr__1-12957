@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://www.stas.net/1/yarsoft/index2.htm
+
+[DOC#62]
+BASEURL=http://www2.efront.com/RealMedia/ads/adstream_sx.ads/www.stas.net//NotFound@Top?971917235
+ORIGURL=http://www2.efront.com/RealMedia/ads/adstream_sx.ads/www.stas.net//NotFound@Top?971917235
+
+[DOC#184]
+BASEURL=http://www2.efront.com/RealMedia/ads/adstream_sx.ads/www.stas.net//NotFound@Top1?971917235
+ORIGURL=http://www2.efront.com/RealMedia/ads/adstream_sx.ads/www.stas.net//NotFound@Top1?971917235
+
+[InternetShortcut]
+URL=http://www.yarinteractive.com/
+Modified=60222489CD19BF01D5
